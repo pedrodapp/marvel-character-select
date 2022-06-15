@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo" src="./marvel.png" width="15%">
+  <img alt="Logo" src="./marvel.png" width="20%">
 </p>
 
 <p align="center">
