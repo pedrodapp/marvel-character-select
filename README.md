@@ -27,4 +27,4 @@ Character Select de personagens da Marvel.
 
 ---
 
-Feito com 💜 durante o MapaDev Week do @Devemdobro.
+Feito com 💜 durante o MapaDev Week do @devemdobro.
