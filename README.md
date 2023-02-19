@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo" src="/src/imagens/marvel.png" width="15%">
+  <img alt="Logo" src="./src/imagens/marvel.png" width="15%">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Preview" src="/src/imagens/preview.png" width="80%">
+  <img alt="Preview" src="./src/imagens/preview.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
