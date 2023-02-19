@@ -27,4 +27,4 @@ Super Mario Bros - Movie Trailer
 
 ---
 
-Feito com 💜 durante o MapaDev Week do @devemdobro.
+Feito com 🍄 durante o MapaDev Week do @devemdobro.
