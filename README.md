@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo" src="./marvel.png" width="18%">
+  <img alt="Logo" src="./images/logo-chapeu-mario.png" width="18%">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Preview" src="./preview.png" width="100%">
+  <img alt="Preview" src="./images/super-mario-chars.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Character Select de personagens da Marvel.
+Super Mario Bros - Movie Trailer
 
 ---
 
