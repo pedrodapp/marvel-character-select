@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo" src="/images/logo-chapeu-mario.png" width="18%">
+  <img alt="Logo" src="/images/marvel.png" width="15%">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Preview" src="/images/super-mario-chars.png" width="100%">
+  <img alt="Preview" src="/images/preview.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -23,8 +23,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Super Mario Bros - Movie Trailer
+Character Select de Personagens da Marvel 🕹️
 
 ---
 
-Feito com 🍄 durante o MapaDev Week do @devemdobro.
+Feito com 💪 durante o MapaDev Week do @devemdobro.
