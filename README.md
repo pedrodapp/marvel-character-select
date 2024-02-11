@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://pedrodapp.github.io/projeto-marvel/" target="_blank">
+  <a href="https://pedrodapp.github.io/marvel-character-select/" target="_blank">
     <img alt="Logo" src="/marvel.png" width="12%">
   </a>
 </p>
 
 <p align="center">
-   <a href="https://pedrodapp.github.io/projeto-marvel/" target="_blank">
+   <a href="https://pedrodapp.github.io/marvel-character-select/" target="_blank">
     <img alt="Preview" src="/preview.png" width="100%">
    </a>
 </p>
