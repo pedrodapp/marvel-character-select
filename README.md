@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img alt="Preview" src="/preview.png" width="80%">
+   <a href="https://pedrodapp.github.io/projeto-marvel/" target="_blank">
+    <img alt="Preview" src="/preview.png" width="100%">
+   </a>
 </p>
 
 ## 🚀 Technologies
