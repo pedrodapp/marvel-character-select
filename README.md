@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Projects</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
@@ -12,18 +12,18 @@
   <img alt="Preview" src="/preview.png" width="80%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
 - JavaScript
 
-## 💻 Projeto
+## 💻 Project
 
-Character Select de Personagens da Marvel 🕹️
+Character Select from Marvel 🕹️
 
 ---
 
-Feito com 💪 durante o MapaDev Week do @devemdobro.
+Made with 💪 during @devemdobro's MapaDev Week.
