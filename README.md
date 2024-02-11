@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo" src="/marvel.png" width="12%">
+  <a href="https://pedrodapp.github.io/projeto-marvel/" target="_blank"><img alt="Logo" src="/marvel.png" width="12%"></a>
 </p>
 
 <p align="center">
