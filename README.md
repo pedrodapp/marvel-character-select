@@ -12,7 +12,7 @@
 
 ## 💻 Project
 
-Character Select from Marvel 🕹️
+Character Select for a Marvel's Fighting Game 🕹️
 
 ## 🚀 Technologies
 
