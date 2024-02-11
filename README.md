@@ -22,4 +22,4 @@ This project was developed with the following technologies:
 - CSS
 - JavaScript
 
-Made with 💪 during @devemdobro's MapaDev Week.
+Made with 💪 during @devemdobro's Dev Week.
